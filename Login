@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>
+Login Page
+</title>
+</head>
+<body>
+<h2>This is a login page.</h2>
+<form name='login'>
+</form>
+</body>
+</html>
